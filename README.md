@@ -21,6 +21,10 @@ A Cold Email Generator built using **Llama 3.1**, **Groq API**, **ChromaDB**, an
 - Groq API access
 - ChromaDB instance
 
+  ## command
+  -Write this command in terminal to run
+  -python3 -m streamlit run app/main.py --server.headless true
+
 ![image](https://github.com/user-attachments/assets/6906eddb-bd5a-4a42-9ff6-b622e2af6079)
 
 ![image](https://github.com/user-attachments/assets/a7fe1ac1-09c6-4a9f-a016-a0ae637ce986)
